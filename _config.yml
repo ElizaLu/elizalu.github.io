@@ -3,7 +3,7 @@ email: agathia925@gmail.com
 description: >- 
   读书笔记、投资笔记、算法笔记与数学笔记
 baseurl: "" 
-url: "https://Lumh16.github.io"
+url: "https://lumh16.github.io"
 theme: minima
 plugins:
   - jekyll-feed
